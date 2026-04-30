@@ -62,7 +62,6 @@ nav:
               - Browsing search results: EOPro/search-mode/browse-results.md
           - Action creator mode:
               - Overview: EOPro/action-creator-mode/overview.md
-              - Switching between workspaces: EOPro/action-creator-mode/switching-between-workspaces.md
               - Workflow design and validation: EOPro/action-creator-mode/workflow-design-and-validation.md
               - Functions and Indices: EOPro/action-creator-mode/multi-index-assets-multiple-functions.md
               - Workflow execution: EOPro/action-creator-mode/workflow-execution-and-history.md
